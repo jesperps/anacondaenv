@@ -12,7 +12,7 @@ Requirements:
 vagrant up --provision
 ```
 
-Then done, login:
+When done, login:
 ```
 vagrant ssh
 ```
