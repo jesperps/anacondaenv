@@ -16,3 +16,11 @@ When done, login:
 ```
 vagrant ssh
 ```
+
+### Verify
+Check that your python version is the a anconda
+```
+vagrant@ubuntu-xenial:~$ python --version
+Python 3.6.4 :: Anaconda, Inc.
+vagrant@ubuntu-xenial:~$
+```
